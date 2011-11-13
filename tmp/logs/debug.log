@@ -956,3 +956,4 @@
 2011-11-13 05:34:21 Debug: Notice (8): Undefined index:  Auth in [D:\wamp\www\cakephp6\app\views\layouts\default.ctp, line 44]
 2011-11-13 05:34:21 Debug: Notice (8): Undefined index:  Auth in [D:\wamp\www\cakephp6\app\views\layouts\default.ctp, line 44]
 2011-11-13 05:34:42 Debug: Notice (8): Undefined variable: productid in [D:\wamp\www\cakephp6\app\views\product_category_details\adddetail.ctp, line 6]
+2011-11-13 14:01:46 Notice: Notice (8): Undefined index:  Auth in [/var/www/html/cakephp6/app/views/layouts/default.ctp, line 44]

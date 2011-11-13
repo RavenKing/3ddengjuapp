@@ -78,8 +78,8 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => '123',
-		'database' => 'cakelamp',
+		'password' => 'mysql110',
+		'database' => 'cakelamp2',
 		'prefix' => '',
 		'encoding'=>'utf8'
 	);
