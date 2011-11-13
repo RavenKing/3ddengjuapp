@@ -10,6 +10,6 @@
     $this->Auth->loginRedirect = array('controller' => 'users', 'action' => 'index');
     $this->Auth->actionPath = 'controllers/';
 	$this->Auth->allow('*');
-    }
+       }
     }
     ?>
