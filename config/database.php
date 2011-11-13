@@ -92,5 +92,7 @@ class DATABASE_CONFIG {
 		'password' => 'password',
 		'database' => 'test_database_name',
 		'prefix' => '',
+
+		'encoding'=>'utf8'
 	);
 }
